@@ -1,0 +1,21 @@
+# 密钥与个人配置，绝不提交
+.env
+
+# 运行产生的数据与周报（按需保留；开源时通常不提交个人数据）
+data/
+reports/
+notes/
+uploads/
+library/
+
+# 第三方 pdf.js 查看器（体积大，用 setup_pdfjs.sh 一键拉取，不入库）
+static/pdfjs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 示例 PDF（版权属原作者，不入库）
+*.pdf

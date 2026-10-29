@@ -1,0 +1,8 @@
+# LitPulse 主题：青绿色系（浅蓝浅绿调）
+# primaryColor 驱动：选中标签文字、primary 按钮、进度条、单选/复选选中态等所有主题色组件
+[theme]
+base = "light"
+primaryColor = "#0f9d8f"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f2fbf9"
+textColor = "#1f3d38"

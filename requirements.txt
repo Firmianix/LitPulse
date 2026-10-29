@@ -1,0 +1,7 @@
+openai>=1.0
+pypdf>=4.0
+streamlit>=1.30
+
+# 可选：启用语义向量 + 混合检索（不装则自动降级为纯 BM25，功能不受影响）
+# sentence-transformers>=2.2
+# numpy>=1.24
